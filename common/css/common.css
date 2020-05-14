@@ -1,0 +1,89 @@
+/* common */
+.header {
+  background-color: #f4f3ef;
+  border-bottom: 1px solid #dddddd;
+  color:#777;
+  height: 75px;
+}
+
+.page-title {
+  float: left;
+  font-size: 16px;
+  margin: 5px;
+  padding: 20px;
+}
+
+.main-wrapper {
+  background-color: #f4f3ef;
+  padding: 30px;
+  min-height: 100vh;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 6px;
+}
+
+.single-mini{
+  width: 300px;
+  margin: 0 auto;
+}
+
+.card-title {
+  color: #252422;
+  font-size: 16px;
+  padding: 20px 20px 0;
+  font-weight: normal;
+}
+
+.contents {
+  padding:15px 15px 10px 15px;
+}
+
+.item {
+  margin-bottom: 15px;
+}
+
+input {
+  border: 1px solid #CCC5B9;
+  background-color: #fffcf5;
+  border-radius: 4px;
+  color: #66615b;
+  font-size: 14px;
+  padding: 7px 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+label {
+  display: block;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+.center {
+  text-align: center;
+}
+
+.btn {
+  color: #FFFFFF;
+  background-color: #68B3C8;
+  border-radius: 20px;
+  border-color: #68B3C8;
+  width: auto;
+  padding: 7px 18px;
+}
+
+.btn:focus {
+  outline: 0;
+}
+
+.btn:hover {
+  background-color: #3091B2;
+  border-color: #3091B2;
+}
+
+.error {
+  color: #B33C12;
+  margin-bottom: 15px;
+}
